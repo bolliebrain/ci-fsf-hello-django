@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-ym8^1r3-(ri9*&r-c0xsh$0zfjixj)%$jy*rqx+rwiwpb4#%ag
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-bolliebrain-cifsfhellod-mz7wk097k24.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['https://bolliebrain-django-todo-app-481e561dd74e.herokuapp.com/']
 
 
 # Application definition
